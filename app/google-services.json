@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194267021170",
+    "project_id": "rdrivefinal",
+    "storage_bucket": "rdrivefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194267021170:android:5c6edbdc241f33239927eb",
+        "android_client_info": {
+          "package_name": "com.plasma.rdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194267021170-ndovf5249f89jhj5siamn4v0ae7rbl2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7X3UiUcnkgJ1cX8xjPuhqyBI8zm5AHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194267021170-ndovf5249f89jhj5siamn4v0ae7rbl2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
